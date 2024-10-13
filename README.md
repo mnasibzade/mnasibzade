@@ -1,8 +1,4 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Munir Nasibzade!;" />
-</h1>
-
-<h3 align="center">I'm just a person</h3>
+<h1 align="center">I'm Munir! </h1>
 
 ## ✨ About Me:
 <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
