@@ -22,10 +22,3 @@
   <img width=300 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mnasibzade&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnasibzade&label=Profile%20views&color=0e75b6&style=flat" alt="mnasibzade" /> </p>
 </div>
-
-<h2 align="center">Languages & Tools</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bun,react,nextjs,tailwind,bootstrap,vscode,git" /> <br>
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,kotlin,figma,linux,mysql,bash,vim" />
-</div>
