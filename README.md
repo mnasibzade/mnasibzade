@@ -3,7 +3,7 @@
 ## ✨ About Me:
 <img width="15%" align="right" alt="Github Image" src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" />
 
--  <img width="2.5%" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  /> 
+-  <img width="2.5%" alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif"  />  I am official maintainer on @crdroidandroid, @alphadroid-project
 - <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="20px" /> **Pronouns:** [*He/Him*](https://pronoun.is/he) 🧔
 - 📫 Find me on Telegram - [mnasibzade](https://t.me/mnasibzade).
 
